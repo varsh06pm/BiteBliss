@@ -27,5 +27,7 @@ Database: MongoDB
 # Usage
 
 1.Start the backend: cd mern-app -> cd backend -> npm run serve
+
 2.Start the frontend: cd mern-app -> npm run dev
+
 3.Access the application in your browser at `http://localhost:5173/`
