@@ -5,16 +5,23 @@ GoFood is a comprehensive food ordering application that aims to revolutionize t
 # Key Features
 
 User Authentication: Users can sign up, log in, and manage their accounts securely.
+
 Browse Food Items: Users can explore a wide range of food items available for ordering.
+
 Add to Cart: Users can add food items to their cart for easy checkout.
+
 Checkout Process: Seamless checkout process for users to complete their orders.
+
 Order History: Users can view their past orders and reorder items if needed.
+
 Admin Panel: Admins can manage food items, orders, and users efficiently.
 
 # Tech Stack
 
 Frontend: React.js
+
 Backend: Node.js with Express.js
+
 Database: MongoDB
 
 # Usage
