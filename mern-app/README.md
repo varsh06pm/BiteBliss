@@ -1,8 +1,20 @@
-# React + Vite
+#Overview
+GoFood is a comprehensive food ordering application that aims to revolutionize the way people order food online. Built using the MERN Stack (MongoDB, Express.js, React.js, Node.js), GoFood provides a seamless and intuitive platform for users to browse, order, and enjoy their favorite meals from a variety of restaurants and vendors.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+#Key Features
+User Authentication: Users can sign up, log in, and manage their accounts securely.
+Browse Food Items: Users can explore a wide range of food items available for ordering.
+Add to Cart: Users can add food items to their cart for easy checkout.
+Checkout Process: Seamless checkout process for users to complete their orders.
+Order History: Users can view their past orders and reorder items if needed.
+Admin Panel: Admins can manage food items, orders, and users efficiently.
 
-Currently, two official plugins are available:
+#Tech Stack
+Frontend: React.js
+Backend: Node.js with Express.js
+Database: MongoDB
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+#Usage
+1.Start the backend: cd mern-app -> cd backend -> npm run serve
+2.Start the frontend: cd mern-app -> npm run dev
+3.Access the application in your browser at `http://localhost:5173/`
